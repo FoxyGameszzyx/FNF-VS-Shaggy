@@ -2,6 +2,7 @@
 	"song": {
 		"sectionLengths": [],
 		"player1": "bf",
+		"player2": "zshaggy",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -10559,14 +10560,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "zshaggy",
-		"player3": "gf",
 		"mania": 3,
+		"player3": "gf",
 		"song": "Talladega",
-		"needsVoices": true,
-		"validScore": true,
 		"sections": 0,
-		"speed": 2.5,
-		"bpm": 237
+		"validScore": true,
+		"needsVoices": true,
+		"bpm": 237,
+		"speed": 2.5
 	}
 }
