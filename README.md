@@ -1,6 +1,6 @@
 ## FNF-VS-Shaggy
 
-You can FNF VS Shaggy right now [here!](https://foxygameszzyx.github.io/FNF-VS-Shaggy/)
+You can play FNF VS Shaggy right [here!](https://foxygameszzyx.github.io/FNF-VS-Shaggy/)
 
 i forked this on an attempt to fix issues that the html5 version devs never fixed
 Devs Broke:
